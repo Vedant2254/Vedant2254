@@ -5,8 +5,6 @@
 
 <a href="#"><img width="100%" height="auto" src="./web-developer.gif" height="175px"/></a>
 
-<br />
-
 <h2>🙋‍♂️ About Me</h2>
 
 - 🔭 I’m currently working on **Self-development**
