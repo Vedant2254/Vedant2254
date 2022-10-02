@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **pvedant2002@gmail.com**
 
-
 ## 🚀 Languages and Tools:
 
 <p align="left">
@@ -43,7 +42,6 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vedant Patil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant2254&stroke=4444&ring=1a73e8&fire=f55442&currStreakNum=1a73e8&sideNums=1a73e8&sideLabels=1a73e8&currStreakLabel=f55442&border=4444"/>
 </p> -->
 
-
 ## 📊 My Github Stats
 
   <img alt="Vedant Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vedant2254" />
@@ -54,7 +52,6 @@
 <br />
 
 <img alt="Vedant Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vedant2254&bg_color=white&color=444444&line=8ab4f8&point=1a73e8&hide_border=false" />
-
 
 ## Connect with me:
 
