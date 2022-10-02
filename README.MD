@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **pvedant2002@gmail.com**
 
-<br />
 
 ## 🚀 Languages and Tools:
 
@@ -38,23 +37,24 @@
 
 <!-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) -->
 
-<br/>
+<!-- <br/>
 
-<!-- <p align="left">
+<p align="left">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vedant Patil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant2254&stroke=4444&ring=1a73e8&fire=f55442&currStreakNum=1a73e8&sideNums=1a73e8&sideLabels=1a73e8&currStreakLabel=f55442&border=4444"/>
 </p> -->
 
+
 ## 📊 My Github Stats
 
-  <br/>
   <img alt="Vedant Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vedant2254" />
   <img alt="Vedant Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant2254&layout=compact" />
-  <br/>
+  
   <b>Note:</b> Most used languages are just calculated from my public repositories and does not represent my skills or experience.
 
-<br/>
+<br />
+
 <img alt="Vedant Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vedant2254&bg_color=white&color=444444&line=8ab4f8&point=1a73e8&hide_border=false" />
-<br/>
+
 
 ## Connect with me:
 
