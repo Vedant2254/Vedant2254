@@ -7,7 +7,7 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on **Self-development**
+- 🔭 I’m currently working on **nothing, focused on learning for now**
 
 - 🌱 I’m currently learning **DSA & Blockchain development**
 
