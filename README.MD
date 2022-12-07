@@ -13,7 +13,7 @@
 
 - 👯 I’m looking for an internship or a job and collaborate on **Web projects**
 
-- 👨‍💻 All of my projects are available at **Portfolio under development**
+- 👨‍💻 All of my projects are available at **[github](https://github.com/Vedant2254)**
 
 - 📫 How to reach me **pvedant2002@gmail.com**
 
