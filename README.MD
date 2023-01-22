@@ -52,7 +52,7 @@
 <!-- <br />
 <img alt="Vedant Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vedant2254&bg_color=white&color=444444&line=8ab4f8&point=1a73e8&hide_border=false" /> -->
 
-## Connect with me:
+## 🤝 Connect with me:
 
 <p align="left">
 
