@@ -7,11 +7,11 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on **nothing, focused on learning for now**
+- 🔭 I’m currently working on a blockchain project **[EHR data management system](https://github.com/Vedant2254/EHR-data-management-system)**
 
 - 🌱 I’m currently learning **DSA & Blockchain development**
 
-- 👯 I’m looking for an internship or a job and collaborate on **Web projects**
+- 👯 I’m looking for an internship or a job and collaborate on **Web2 / Web3 projects**
 
 - 👨‍💻 All of my projects are available at **[github](https://github.com/Vedant2254)**
 
