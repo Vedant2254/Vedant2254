@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vedant <sub>010101100110010101100100011000010110111001110100</sub></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vedant</h1>
 <h3 align="center">A MERN stack developer and preparing to dive into the world of Web3.0</h3>
 
 <a href="#"><img width="100%" height="auto" src="./web-developer.gif" height="175px"/></a>
